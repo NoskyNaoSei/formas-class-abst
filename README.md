@@ -1,0 +1,1 @@
+# formas-class-abst
